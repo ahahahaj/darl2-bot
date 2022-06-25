@@ -5,7 +5,7 @@
 <a href="https://github.com/darlyn1234/darl2-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darlyn1234/darl2-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/darlyn1234/darl2-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/darlyn1234/darl2-bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/darlyn1234/darl2-bot"><img title="Open Source" src="https://img.shields.io/badge/Author-Darlyn.-red?v=103"></a>
-<a href="https://github.com/darlyn1234/darl2-bot"><img title="Size" src="https://img.shields.io/github/repo-size/darlyn1234/darl2-bot?style=flat-square&color=green"></a>
+<a href="https://github.com/ahahahaj/darl2-bot"><img title="Size" src="https://img.shields.io/github/repo-size/darlyn1234/darl2-bot?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarlyn%2FBot-MD2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/darlyn1234/darl2-bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
